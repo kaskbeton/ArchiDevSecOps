@@ -115,7 +115,8 @@
       id="14922"
       targetConnections="19474"
       font="1|Segoe UI Semibold|9.0|2|WINDOWS|1|-12|0|0|0|600|-1|0|0|0|3|2|1|34|Segoe UI Semibold"
-      fillColor="#b5ffff">
+      fillColor="#b5ffff"
+      type="1">
     <bounds
         x="328"
         y="442"
@@ -155,7 +156,8 @@
       id="14929"
       targetConnections="14937"
       font="1|Segoe UI Semibold|9.0|2|WINDOWS|1|-12|0|0|0|600|-1|0|0|0|3|2|1|34|Segoe UI Semibold"
-      fillColor="#b5ffff">
+      fillColor="#b5ffff"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="14933"
@@ -181,7 +183,8 @@
       id="14931"
       targetConnections="19476"
       font="1|Segoe UI Semibold|9.0|2|WINDOWS|1|-12|0|0|0|600|-1|0|0|0|3|2|1|34|Segoe UI Semibold"
-      fillColor="#b5ffff">
+      fillColor="#b5ffff"
+      type="1">
     <bounds
         x="628"
         y="442"

@@ -44,7 +44,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="16484">
+      id="16484"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="16487"
@@ -83,7 +84,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="16485">
+      id="16485"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="16532"
@@ -113,7 +115,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="16486">
+      id="16486"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="16608"
@@ -152,7 +155,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="16528">
+      id="16528"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="16534"
@@ -191,7 +195,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="16530">
+      id="16530"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="16535"
@@ -221,7 +226,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="16531">
+      id="16531"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="16618"
@@ -251,7 +257,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="16536">
+      id="16536"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="16540"
@@ -281,7 +288,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="16537">
+      id="16537"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="16543"
@@ -324,7 +332,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="16545">
+      id="16545"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="16637"

@@ -233,7 +233,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="18296"
       targetConnections="18301 18300"
-      fillColor="#ffffb5">
+      fillColor="#ffffb5"
+      type="1">
     <bounds
         x="136"
         y="245"
@@ -247,7 +248,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="18297"
       targetConnections="18302 18307"
-      fillColor="#ffffb5">
+      fillColor="#ffffb5"
+      type="1">
     <bounds
         x="336"
         y="245"
@@ -261,7 +263,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="18298"
       targetConnections="18306 18303"
-      fillColor="#ffffb5">
+      fillColor="#ffffb5"
+      type="1">
     <bounds
         x="516"
         y="245"
@@ -275,7 +278,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="18299"
       targetConnections="18305 18304"
-      fillColor="#ffffb5">
+      fillColor="#ffffb5"
+      type="1">
     <bounds
         x="696"
         y="245"
@@ -288,7 +292,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="18308"
-      targetConnections="18312 18313">
+      targetConnections="18312 18313"
+      type="1">
     <bounds
         x="129"
         y="38"
@@ -302,7 +307,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="18309"
       targetConnections="18315 18314"
-      fillColor="#ffffb5">
+      fillColor="#ffffb5"
+      type="1">
     <bounds
         x="316"
         y="38"
@@ -316,7 +322,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="18310"
       targetConnections="18316 18317"
-      fillColor="#ffffb5">
+      fillColor="#ffffb5"
+      type="1">
     <bounds
         x="502"
         y="38"
@@ -330,7 +337,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="18311"
       targetConnections="18318 18319"
-      fillColor="#ffffb5">
+      fillColor="#ffffb5"
+      type="1">
     <bounds
         x="676"
         y="38"

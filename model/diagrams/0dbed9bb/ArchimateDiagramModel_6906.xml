@@ -42,7 +42,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="0a5267d7"
-      name="As-is Architecture">
+      name="As-is Architecture"
+      textAlignment="1">
     <bounds
         x="193"
         y="216"
@@ -88,7 +89,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="882ce287"
-      name="To-be Architecture">
+      name="To-be Architecture"
+      textAlignment="1">
     <bounds
         x="193"
         y="372"

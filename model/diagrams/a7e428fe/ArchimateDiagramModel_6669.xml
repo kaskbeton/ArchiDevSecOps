@@ -41,7 +41,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6765"
       targetConnections="6800"
-      fillColor="#ffffb5">
+      fillColor="#ffffb5"
+      type="1">
     <bounds
         x="53"
         y="180"
@@ -55,7 +56,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6766"
       targetConnections="6801"
-      fillColor="#ffffb5">
+      fillColor="#ffffb5"
+      type="1">
     <bounds
         x="346"
         y="126"
@@ -69,7 +71,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6767"
       targetConnections="6802"
-      fillColor="#ffffb5">
+      fillColor="#ffffb5"
+      type="1">
     <bounds
         x="566"
         y="126"
@@ -83,7 +86,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6768"
       targetConnections="6803"
-      fillColor="#ffffb5">
+      fillColor="#ffffb5"
+      type="1">
     <bounds
         x="773"
         y="126"

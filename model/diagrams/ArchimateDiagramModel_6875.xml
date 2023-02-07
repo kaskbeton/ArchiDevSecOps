@@ -9,7 +9,8 @@
       id="6877"
       targetConnections="88c81723"
       font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
-      fillColor="#c9e7b7">
+      fillColor="#c9e7b7"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="6893"
@@ -49,7 +50,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="6879"
         font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
-        fillColor="#c9e7b7">
+        fillColor="#c9e7b7"
+        type="1">
       <bounds
           x="20"
           y="40"
@@ -87,7 +89,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="6883"
           font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
-          fillColor="#c9e7b7">
+          fillColor="#c9e7b7"
+          type="1">
         <bounds
             x="33"
             y="173"
@@ -105,7 +108,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="6884"
         font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
-        fillColor="#c9e7b7">
+        fillColor="#c9e7b7"
+        type="1">
       <bounds
           x="253"
           y="40"
@@ -143,7 +147,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="6888"
           font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
-          fillColor="#c9e7b7">
+          fillColor="#c9e7b7"
+          type="1">
         <bounds
             x="33"
             y="173"
@@ -243,7 +248,8 @@
       id="6896"
       targetConnections="1dcc6eb9"
       font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
-      fillColor="#c9e7b7">
+      fillColor="#c9e7b7"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="6905"

@@ -87,7 +87,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="13270"
       targetConnections="13312"
-      font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial">
+      font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="13302"
@@ -162,7 +163,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="13311"
-      font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial">
+      font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="13312"

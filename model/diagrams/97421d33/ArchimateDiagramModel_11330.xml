@@ -132,7 +132,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="11339"
-      targetConnections="11343">
+      targetConnections="11343"
+      type="1">
     <bounds
         x="265"
         y="400"
@@ -146,7 +147,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="11340"
       targetConnections="11345 11344 11342"
-      fillColor="#bdffbd">
+      fillColor="#bdffbd"
+      type="1">
     <bounds
         x="460"
         y="400"

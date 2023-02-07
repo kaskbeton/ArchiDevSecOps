@@ -1,0 +1,46 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for Process cell controller"
+    id="id-2f533018589b4ac9a985ec20d8b81ef1">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-be8ec159412544509bc577192d044735"
+      targetConnections="id-6f13742298db41c8bb55f64fab381095"
+      lineColor="#5c5c5c"
+      fillColor="#c9e7b7"
+      type="1">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_7746.xml#7746"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-40f0db0ea3f94168a5691ca482fea3f1"
+      lineColor="#5c5c5c"
+      fillColor="#edcfe2">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-6f13742298db41c8bb55f64fab381095"
+        lineColor="#000000"
+        source="id-40f0db0ea3f94168a5691ca482fea3f1"
+        target="id-be8ec159412544509bc577192d044735">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_7742.xml#7742"/>
+    </sourceConnections>
+    <bounds
+        x="170"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Location"
+        href="Location_7425.xml#7425"/>
+  </children>
+</archimate:ArchimateDiagramModel>

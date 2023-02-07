@@ -221,7 +221,8 @@
       id="14855"
       targetConnections="14858 14861 14860 14862"
       font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#ffffb5">
+      fillColor="#ffffb5"
+      type="1">
     <bounds
         x="301"
         y="306"
@@ -236,7 +237,8 @@
       id="14863"
       targetConnections="14864"
       font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#ffffb5">
+      fillColor="#ffffb5"
+      type="1">
     <bounds
         x="41"
         y="306"
@@ -251,7 +253,8 @@
       id="14865"
       targetConnections="14866"
       font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#ffffb5">
+      fillColor="#ffffb5"
+      type="1">
     <bounds
         x="168"
         y="306"
@@ -265,7 +268,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="14867"
       font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#ffffb5">
+      fillColor="#ffffb5"
+      type="1">
     <bounds
         x="417"
         y="379"
@@ -280,7 +284,8 @@
       id="14869"
       targetConnections="14870"
       font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#ffffb5">
+      fillColor="#ffffb5"
+      type="1">
     <bounds
         x="508"
         y="293"
